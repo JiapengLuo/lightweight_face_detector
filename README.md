@@ -10,7 +10,9 @@ We provide 4 different setting checkpoints.
 3. scipy
 4. numpy
 
-change the path in eval_fddb.py and eval_wider.py to customed path
+The demo.py is provided.
+
+To evaluate on fddb and wider face, change the path in eval_fddb.py and eval_wider.py to customed path
 
 ### results of the enable_hflip
 
